@@ -106,10 +106,10 @@ class SettingsActivity : SimpleActivity() {
     }
 
     private fun setupSound() {
-        settings_sound.isChecked = config.isSoundEnabled
+        settings_sound_2.isChecked = config.isSoundEnabled
         settings_sound_holder.setOnClickListener {
-            settings_sound.toggle()
-            config.isSoundEnabled = settings_sound.isChecked
+            settings_sound_2.toggle()
+            config.isSoundEnabled = settings_sound_2.isChecked
         }
     }
 

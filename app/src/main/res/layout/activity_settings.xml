@@ -113,7 +113,7 @@
             android:paddingBottom="@dimen/activity_margin">
 
             <com.simplemobiletools.commons.views.MySwitchCompat
-                android:id="@+id/settings_sound"
+                android:id="@+id/settings_sound_2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@null"
