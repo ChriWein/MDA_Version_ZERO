@@ -32,7 +32,7 @@ class SettingsActivity : SimpleActivity() {
         setupVolumeButtonsAsShutter()
         setupTurnFlashOffAtStartup()
         setupFlipPhotos()
-        // change 2
+        // change 2f
         //setupKeepSettingsVisible()
         setupAlwaysOpenBackCamera()
         setupSavePhotoMetadata()
